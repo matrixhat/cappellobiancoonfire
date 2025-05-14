@@ -3,9 +3,13 @@
         "expiration_date": "2025-05-15",
         "duration": "1 week"
     },
+    "WINZOZ.COM104GGEZ": {
+        "expiration_date": "2025-07-01",
+        "duration": "indefinite",
+    },
     "ADMIN@ADMIN.key778.09": {
-        "expiration_date": "\u221e",
-        "duration": "infinite",
-        "role": "admin"
+    "expiration_date": "\u221e",
+    "duration": "infinite",
+    "role": "admin"
     }
 }
