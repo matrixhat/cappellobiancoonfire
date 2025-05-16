@@ -6,10 +6,5 @@
     "WINZOZ.COM104GGEZ": {
         "expiration_date": "2025-07-01",
         "duration": "indefinite"
-    },
-    "ADMIN@ADMIN.key778.09": {
-    "expiration_date": "\u221e",
-    "duration": "infinite",
-    "role": "admin"
     }
 }
